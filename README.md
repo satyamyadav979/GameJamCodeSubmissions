@@ -7,8 +7,15 @@ Each project demonstrates a core programming concept through an interactive game
 
 ## 🧑‍💻 Submission Details
 
-### Submission Sample 1 Template
+### Submission
 ### 👤 Name
+ 1) Naresh Kumar Thodupunoori  
+
+### 🧠 Theme
+2) Binary
+
+### 🔗 Itch.io Link
+[Play the Game]((https://naresh-kumar-thodupunoori.itch.io/bitgrid))
 Participant 1
 
 ### 🧠 Theme
