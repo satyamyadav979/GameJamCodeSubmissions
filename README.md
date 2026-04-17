@@ -31,3 +31,19 @@ Inheritance — boot a dead grandfather's cursed Windows-98 PC, solve four passw
 
 ### 🗂️ Project Zip
 [`WillExe.zip`](WillExe.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
+### Submission — Bone and Blade
+### 👤 Name
+Satish Rathod
+
+### 🧠 Theme
+Classes — three character classes (Knight / Wizard / Assassin) you swap between mid-fight, each a polymorphic `ClassAttackBase` with its own attack and damage type.
+
+### 🔗 Itch.io Link
+[Play Bone and Blade](https://satish-rathod.itch.io/bone-and-blade)
+
+### 📦 Source Repo
+[github.com/satish-rathod/bone-and-blade](https://github.com/satish-rathod/bone-and-blade)
+
+### 🗂️ Project Zip
+[`BoneAndBlade.zip`](BoneAndBlade.zip) — contains `Assets/`, `Packages/`, `ProjectSettings/`
+
