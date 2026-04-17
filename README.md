@@ -7,7 +7,7 @@ Each project demonstrates a core programming concept through an interactive game
 
 ## 🧑‍💻 Submission Details
 
-### Submission 1 
+### Submission Sample 1 Template
 ### 👤 Name
 Participant 1  
 
